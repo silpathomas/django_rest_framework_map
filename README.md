@@ -52,4 +52,4 @@ DATABASES = {
 
 POST api/account/token/  for Login
 
-GET  api/geolocation/list for listing location
+GET  api/geolocation/list for listing locations
