@@ -1,6 +1,15 @@
 # Django-JWTAuth-Redis-REST API
 
+## Indroduction
+Nowadays, using map service and displaying user geolocation in a map is a widely used
+feature for Mobile and Web applications. This assignment aims to develop a REST API
+service and Single Page Application (SPA).
 
+#API Tools:
+1. Django
+2. Django Rest Framework
+3. Database Postgresql
+4. For database cache Use Redis
 
 
 
