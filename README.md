@@ -1,4 +1,4 @@
-# Django-JWTAuth-Redis-REST API
+# Django-JWTauth-Redis-REST API
 
 ## Indroduction
 Nowadays, using map service and displaying user geolocation in a map is a widely used
